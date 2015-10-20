@@ -1,2 +1,2 @@
 # bashbandit
-a slot machine for you bash prompt
+a slot machine for your bash prompt
